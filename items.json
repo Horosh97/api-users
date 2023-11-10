@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Juan Antonio Velasco",
+      "username": "@juanantoniov",
+      "birthday": "12/04/1994",
+      "quote": "Mi vida sería mejor si no estudiase nunca más en un bootcamp",
+      "profilePicture": "https://i.ibb.co/6FdCX8d/1.webp",
+      "isFriend": true,
+      "interests": ["Pizza", "Juego de tronos", "Programación"]
+    },
+    {
+      "id": 2,
+      "name": "Maria Rodriguez",
+      "username": "@mariarod",
+      "birthday": "25/08/1990",
+      "quote": "Amo viajar y descubrir nuevas culturas",
+      "profilePicture": "https://i.ibb.co/WP4C4V8/2.webp",
+      "isFriend": false,
+      "interests": ["Viajes", "Fotografía", "Cocina"]
+    },
+    {
+      "id": 3,
+      "name": "Carlos Pérez",
+      "username": "@carlosp",
+      "birthday": "05/11/1985",
+      "quote": "Apasionado por la tecnología y la ciencia",
+      "profilePicture": "https://i.ibb.co/jvN7MXV/3.webp",
+      "isFriend": true,
+      "interests": ["Tecnología", "Ciencia", "Cine"]
+    },
+    {
+      "id": 4,
+      "name": "Laura Martínez",
+      "username": "@lauram",
+      "birthday": "18/07/1992",
+      "quote": "La música es mi escape",
+      "profilePicture": "https://i.ibb.co/CbfMjxK/4.webp",
+      "isFriend": false,
+      "interests": ["Música", "Arte", "Deportes"]
+    },
+    {
+      "id": 5,
+      "name": "Javier López",
+      "username": "@javierl",
+      "birthday": "30/03/1988",
+      "quote": "Siempre en busca de nuevas aventuras",
+      "profilePicture": "https://i.ibb.co/HBPvBSG/5.webp",
+      "isFriend": true,
+      "interests": ["Aventuras", "Deportes extremos", "Historia"]
+    },
+    {
+      "id": 6,
+      "name": "Ana García",
+      "username": "@anag",
+      "birthday": "08/12/1996",
+      "quote": "Amante de los animales y la naturaleza",
+      "profilePicture": "https://i.ibb.co/TWt2JM2/6.webp",
+      "isFriend": false,
+      "interests": ["Animales", "Naturaleza", "Libros"]
+    },
+    {
+      "id": 7,
+      "name": "Pedro Hernández",
+      "username": "@pedroh",
+      "birthday": "14/09/1991",
+      "quote": "Si puedes soñarlo, puedes lograrlo",
+      "profilePicture": "https://i.ibb.co/Sdwgz00/7.webp",
+      "isFriend": true,
+      "interests": ["Motivación", "Emprendimiento", "Fitness"]
+    },
+    {
+      "id": 8,
+      "name": "Isabel Díaz",
+      "username": "@isabeld",
+      "birthday": "22/06/1986",
+      "quote": "La cocina es mi pasión",
+      "profilePicture": "https://i.ibb.co/WBC964z/8.webp",
+      "isFriend": false,
+      "interests": ["Cocina", "Gastronomía", "Viajes"]
+    },
+    {
+      "id": 9,
+      "name": "Ricardo Torres",
+      "username": "@ricardot",
+      "birthday": "03/01/1990",
+      "quote": "Creando el futuro, un código a la vez",
+      "profilePicture": "https://i.ibb.co/G9Gp4K7/9.webp",
+      "isFriend": true,
+      "interests": ["Programación", "Tecnología", "Videojuegos"]
+    },
+    {
+      "id": 10,
+      "name": "Sara Ramírez",
+      "username": "@sarar",
+      "birthday": "20/05/1987",
+      "quote": "Exploradora de la vida y sus misterios",
+      "profilePicture": "https://i.ibb.co/jbjbdQw/10.webp",
+      "isFriend": false,
+      "interests": ["Misterios", "Historia", "Arqueología"]
+    }
+  ]
+}
